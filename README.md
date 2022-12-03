@@ -1,4 +1,8 @@
 # tensorflow_raspberry
+## Ideas:
+Sería genial que tome datos de un sensor directamente o por medio de un arduino y meterlo en 
+un sistema de colas distribuidos como que te provee IPFS como PubSub.
+
 # install tensorflow in raspberry pi3 python3
 git clone https://github.com/aratan/tensorflow_raspberry.git
 cd tensorflow_raspberry
